@@ -1,13 +1,13 @@
 ### Greetings and salutations!👋
 
-I am Alex Maszanski, a Data Scientist who interested in Machine Learning, Kaggle contributing and Artificial Intelligence. I'm a writer on proglib.io website. Most of my articles focus on the realm of Data science, especially Machine Learning methods & alghorithms.
+I am Alex Maszanski, a Data Scientist who interested in Machine Learning, Kaggle contributing and Artificial Intelligence. I'm a writer on [proglib.io](https://proglib.io) website. Most of my articles focus on the realm of Data science, especially Machine Learning methods & alghorithms.
 
 
 A lot of my repositories & pet projects represented here, from my school days when I tried Java and C languages to nowadays, where mostly of my projects are related with Python and Data Science in general.
 Also I'm in relations with high math since my secondary school. And I really like the fact that things like mathematics, combinatorics, statistics & probability theory can be combined with programming and generate an interesting result!
 
 
-## 📚My Knowledge & skills
+## 📚My Knowledge & Skills
 
 - Main: Python, Machine Learning, Mathematics, SQL
 - Machine Learning Algorithms: Linear Logistic Regression, Decision Tree, Random Forest, K-Nearest Neighbors (KNN), Gradient Boosting(Xgboost, Catboost, LightAutoML)
@@ -22,7 +22,7 @@ Also I'm in relations with high math since my secondary school. And I really lik
 - [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) 
 - [Neural Networks and Deep Learning book](http://neuralnetworksanddeeplearning.com)
 
-## 🤝 I’m looking to collaborate on
+## 🤝 I’m looking forward to cooperating on
 - Open Source Python Libraries
 - Projects related with ML and AI
 
