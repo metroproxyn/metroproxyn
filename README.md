@@ -1,6 +1,6 @@
 ### Greetings and salutations!👋
 
-I am Alex Maszanski, a Data Scientist who interested in Machine Learning, Kaggle contributing and Artificial Intelligence. I'm a writer on [proglib.io](https://proglib.io) website. Most of my articles focus on the realm of Data science, especially Machine Learning methods & alghorithms.
+I am Alex Maszanski, a Data Scientist who interested in Machine Learning, Kaggle contributing and Artificial Intelligence. I'm a writer on [proglib.io](https://proglib.io) website. Most of my articles focus on the realm of Data science, especially Machine Learning methods & algorithms.
 
 
 A lot of my repositories & pet projects represented here, from my school days when I tried Java and C languages to nowadays, where mostly of my projects are related with Python and Data Science in general.
