@@ -29,7 +29,7 @@ Also I'm in relations with high math since my secondary school. And I really lik
 ## 🔎 How to find me
 
 - Linkedin: [https://www.linkedin.com/in/maszanski/](https://www.linkedin.com/in/maszanski/)
-- GitHub: https://github.com/tornikeo
+- Kaggle: [https://www.kaggle.com/alexmaszanski](https://www.kaggle.com/alexmaszanski)
 - Mail: [maszanski@yahoo.com](mailto:maszanski@yahoo.com)
 - Twitter: [https://twitter.com/maszanski](https://twitter.com/maszanski)
 
