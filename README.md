@@ -21,6 +21,7 @@ Also I'm in relations with high math since my secondary school. And I really lik
 
 - [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) 
 - [Neural Networks and Deep Learning book](http://neuralnetworksanddeeplearning.com)
+- [Interactive SQL Trainer](https://stepik.org/course/63054)
 
 ## 🤝 I’m looking forward to cooperating on
 - Open Source Python Libraries
