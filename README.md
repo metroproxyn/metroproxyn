@@ -20,7 +20,7 @@ Also I'm in relations with high math since my secondary school. And I really lik
 ## 💻 I’m currently learning/reading
 
 - [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) 
-- [Feature Engineering for Machine Learning book](https://www.oreilly.com/library/view/feature-engineering-for/9781491953235/)
+- [Participating in different Kaggle competitions](https://www.kaggle.com)
 - [Interactive SQL Trainer](https://stepik.org/course/63054)
 
 ## 🤝 I’m looking forward to cooperating on
