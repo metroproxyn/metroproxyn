@@ -40,5 +40,5 @@ Also I'm in relations with high math since my secondary school. And I really lik
 - [How to become a Data Engineer in 2021?](https://proglib.io/p/kak-stat-data-inzhenerom-v-2021-godu-2021-07-25)
 - [The k-nearest neighbors (KNN) algorithm](https://proglib.io/p/metod-k-blizhayshih-sosedey-k-nearest-neighbour-2021-07-19)
 - [Random Forest algorithm](https://proglib.io/p/mashinnoe-obuchenie-dlya-nachinayushchih-algoritm-sluchaynogo-lesa-random-forest-2021-08-12)
-- [Feature ENgineering & Selection. Part 1](https://proglib.io/p/postroenie-i-otbor-priznakov-chast-1-feature-engineering-2021-09-15)
+- [Feature Engineering & Selection. Part 1](https://proglib.io/p/postroenie-i-otbor-priznakov-chast-1-feature-engineering-2021-09-15)
 
