@@ -17,12 +17,10 @@ Also I'm in relations with high math since my secondary school. And I really lik
 - Languages: English, Polish, Russian
 
 
-## 💻 I’m currently learning/reading
+## 💻 I’m currently learning
 
-- Participating in ["Catch Me If You Can: Intruder Detection through Webpage Session Tracking"] competition (https://www.kaggle.com/c/catch-me-if-you-can-intruder-detection-through-webpage-session-tracking2/data)
-- Improving an Academic Paper Recommender Project from [this book](https://www.amazon.com/Feature-Engineering-Machine-Learning-Principles/dp/1491953241)
-- Creating a repository with implementations of basic ML algorithms.
-
+- Participating in ["Catch Me If You Can: Intruder Detection through Webpage Session Tracking"](https://www.kaggle.com/c/catch-me-if-you-can-intruder-detection-through-webpage-session-tracking2/data) competition
+- Taking a [dlcourse.ai](https://dlcourse.ai/)
 ## 🤝 I’m looking forward to cooperating on
 - Open Source Python Libraries
 - Projects related with ML and AI
