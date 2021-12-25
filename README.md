@@ -6,6 +6,8 @@ I am Alex Maszanski, a Data Scientist who interested in Machine Learning, Kaggle
 A lot of my repositories & pet projects represented here, from my school days when I tried Java and C languages to nowadays, where mostly of my projects are related with Python and Data Science in general.
 Also I'm in relations with high math since my secondary school. And I really like the fact that things like mathematics, combinatorics, statistics & probability theory can be combined with programming and generate an interesting result!
 
+![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/alexmaszanski/discussion)
+
 
 ## 📚My Knowledge & Skills
 
@@ -19,8 +21,8 @@ Also I'm in relations with high math since my secondary school. And I really lik
 
 ## 💻 I’m currently learning
 
-- Participating in ["Catch Me If You Can: Intruder Detection through Webpage Session Tracking"](https://www.kaggle.com/c/catch-me-if-you-can-intruder-detection-through-webpage-session-tracking2/data) competition
-- Taking a [dlcourse.ai](https://dlcourse.ai/)
+- Kaggle different competitions (legacy, just for train) and datasets exploration🔍
+
 ## 🤝 I’m looking forward to cooperating on
 - Open Source Python Libraries
 - Projects related with ML and AI
@@ -42,3 +44,6 @@ Also I'm in relations with high math since my secondary school. And I really lik
 - [Feature Engineering & Selection. Part 2](https://proglib.io/p/postroenie-i-otbor-priznakov-chast-2-feature-selection-2021-09-25)
 - [Kaggle for beginners. Part 1: Overview](https://proglib.io/p/kaggle-za-30-minut-prakticheskoe-rukovodstvo-dlya-nachinayushchih-2021-09-17)
 - [Kaggle for beginners. Part 2: House Prices](https://proglib.io/p/kaggle-za-30-minut-razbiraemsya-s-sorevnovaniem-house-prices-2021-09-28)
+- [Naive Bayes classifier](https://proglib.io/p/izuchaem-naivnyy-bayesovskiy-algoritm-klassifikacii-dlya-mashinnogo-obucheniya-2021-11-12)
+- [Gradient Boosting algorithm](https://proglib.io/p/reshaem-zadachi-mashinnogo-obucheniya-s-pomoshchyu-algoritma-gradientnogo-bustinga-2021-11-25)
+- [Reinforcement Learning](https://proglib.io/p/chto-takoe-obuchenie-s-podkrepleniem-i-kak-ono-rabotaet-obyasnyaem-na-prostyh-primerah)
