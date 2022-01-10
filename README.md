@@ -14,14 +14,15 @@ Also I'm in relations with high math since my secondary school. And I really lik
 - Main: Python, Machine Learning, Mathematics, SQL
 - Machine Learning Algorithms: Linear Logistic Regression, Decision Tree, Random Forest, K-Nearest Neighbors (KNN), Gradient Boosting(Xgboost, Catboost, LightAutoML)
 - Industry Knowledge: Feature Engineering, Data preparation, Time Series Analysis, PCA
-- Tools and Technologies: NumPy, Pandas, Scikit-Learn, Matplotlib, Seaborn, LightAutoML, Vowpal Wabbit, Git 
+- Tools and Technologies: NumPy, Pandas, Scikit-Learn, Matplotlib, Seaborn, LightAutoML, Vowpal Wabbit, Git
+- Experience with Deep Learning frameworks: Pytorch, Keras, Evaluation the neural network performance
 - Soft Skills: Educability, Time Management, Self-motivation, Communication
 - Languages: English, Polish, Russian
 
 
-## 💻 I’m currently learning
+## 💻 I’m currently
 
-- Kaggle different competitions (legacy, just for train) and datasets exploration🔍
+- Writing different article on ML topic & contributing to Open Source
 
 ## 🤝 I’m looking forward to cooperating on
 - Open Source Python Libraries
