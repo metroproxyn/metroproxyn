@@ -1,10 +1,12 @@
 ### Greetings!👋
 
-I am Alex Maszanski, a Data Scientist who interested in Machine Learning, Kaggle contributing and Artificial Intelligence. I'm a writer on [proglib.io](https://proglib.io) website. Most of my articles focus on the realm of Data science, especially Machine Learning methods & algorithms.
+I am Alex Maszanski, a Data Scientist who interested in Machine Learning, Kaggle contributing and Artificial Intelligence. I'm a writer & translator on [proglib.io](https://proglib.io) website. Most of my articles focus on the realm of Data science, especially Machine Learning methods & algorithms.
 
 
 A lot of my repositories & pet projects represented here, from my school days when I tried Java and C languages to nowadays, where mostly of my projects are related with Python and Data Science in general.
-Also I'm in relations with high math since my secondary school. And I really like the fact that things like mathematics, combinatorics, statistics & probability theory can be combined with programming and generate an interesting result!
+I'm in relations with high math since my secondary school. And I really like the fact that things like mathematics, combinatorics, statistics & probability theory can be combined with programming and generate an interesting result!
+
+In addition, I’m interested in the mathematical aspects of cryptography, various cryptographyc algorithms & methods. As well as the application of cryptanalytic techniques to other fields, such as Data Science. 
 
 ![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/alexmaszanski/discussion)
 
@@ -22,7 +24,7 @@ Also I'm in relations with high math since my secondary school. And I really lik
 
 ## 💻 I’m currently
 
-- Writing different article on ML topic & looking for ways to contribute to Open Source
+- Writing various articles on Probability Theory and criptography
 
 ## 🤝 I’m looking forward to cooperating on
 - Open Source Python Libraries
@@ -48,3 +50,4 @@ Also I'm in relations with high math since my secondary school. And I really lik
 - [Naive Bayes classifier](https://proglib.io/p/izuchaem-naivnyy-bayesovskiy-algoritm-klassifikacii-dlya-mashinnogo-obucheniya-2021-11-12)
 - [Gradient Boosting algorithm](https://proglib.io/p/reshaem-zadachi-mashinnogo-obucheniya-s-pomoshchyu-algoritma-gradientnogo-bustinga-2021-11-25)
 - [Reinforcement Learning](https://proglib.io/p/chto-takoe-obuchenie-s-podkrepleniem-i-kak-ono-rabotaet-obyasnyaem-na-prostyh-primerah)
+- [NFT & Cryptopunks: NN for generating images](https://proglib.io/p/nft-i-kriptopanki-pishem-neyroset-dlya-ih-generacii-2022-01-18)
