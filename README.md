@@ -24,7 +24,8 @@ In addition, I’m interested in the mathematical aspects of cryptography, vario
 
 ## 💻 I’m currently
 
-- Writing various articles on Probability Theory and criptography
+- Writing various articles on Data Structures topic
+- Contributing to [sky360](https://github.com/Sky360-Repository/simpletracker) project 
 
 ## 🤝 I’m looking forward to cooperating on
 - Open Source Python Libraries
