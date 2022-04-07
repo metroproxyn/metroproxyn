@@ -13,11 +13,14 @@ In addition, I’m interested in the mathematical aspects of cryptography, vario
 
 ## 📚My Knowledge & Skills
 
-- Main: Python, Machine Learning, Mathematics, SQL
-- Machine Learning Algorithms: Linear Logistic Regression, Decision Tree, Random Forest, K-Nearest Neighbors (KNN), Gradient Boosting(Xgboost, Catboost, LightAutoML)
-- Experience with Deep Learning frameworks: Pytorch, Keras
-- Industry Knowledge: Feature Engineering, Data preparation, Evaluation the neural network performance
-- Tools and Technologies: NumPy, Pandas, Scikit-Learn, Matplotlib, Seaborn, LightAutoML, Vowpal Wabbit, Git
+- Programming language: Python, SQL
+- Machine Learning algorithms: Linear & Logistic Regression, Decision Tree, Random Forest, K-Nearest Neighbors (KNN), Gradient Boosting, Naive Bayes classifier
+- Machine Learning libraries: NumPy, Pandas, Scikit-Learn, Xgboost, LightAutoML, Vowpal Wabbit
+- Deep Learning libraries: Pytorch, Keras, OpenCV
+- Visialisation libraries: Matplotlib, Seaborn
+- Industry Knowledge: Data Preparation, Feature Engineering & Selection, Time Series Analysis, PCA, Word2vec
+- Neural Network architecture knowledge: CNN, RNN (LSTM), VAE, DNN,GAN
+- Tools: Docker, Git
 - Soft Skills: Educability, Time Management, Self-motivation, Communication
 - Languages: English, Polish, Russian
 
@@ -28,8 +31,8 @@ In addition, I’m interested in the mathematical aspects of cryptography, vario
 - Contributing to [sky360](https://github.com/Sky360-Repository/simpletracker) project 
 
 ## 🤝 I’m looking forward to cooperating on
-- Open Source Python Libraries
-- Projects related with ML and AI
+- Open Source Python projects
+- Startup job
 
 ## 🔎 How to find me
 
