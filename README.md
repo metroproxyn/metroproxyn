@@ -19,7 +19,7 @@ In addition, I’m interested in the mathematical aspects of cryptography, vario
 - Deep Learning libraries: Pytorch, Keras, OpenCV
 - Visialisation libraries: Matplotlib, Seaborn
 - Industry Knowledge: Data Preparation, Feature Engineering & Selection, Time Series Analysis, PCA, Word2vec
-- Neural Network architecture knowledge: CNN, RNN (LSTM), VAE, DNN,GAN
+- Neural Network architecture knowledge: CNN, RNN (LSTM), VAE, DNN, GAN
 - Tools: Docker, Git
 - Soft Skills: Educability, Time Management, Self-motivation, Communication
 - Languages: English, Polish, Russian
