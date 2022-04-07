@@ -6,7 +6,7 @@ I am Alex Maszanski, a Data Scientist who interested in Machine Learning, Kaggle
 A lot of my repositories & pet projects represented here, from my school days when I tried Java and C languages to nowadays, where mostly of my projects are related with Python and Data Science in general.
 I'm in relations with high math since my secondary school. And I really like the fact that things like mathematics, combinatorics, statistics & probability theory can be combined with programming and generate an interesting result!
 
-In addition, I’m interested in the mathematical aspects of cryptography, various cryptographyc algorithms & methods. As well as the application of cryptanalytic techniques to other fields, such as Data Science. 
+In addition, I’m interested in the mathematical aspects of cryptography, various cryptographyc algorithms & methods. As well as the application of cryptographic techniques to other fields, such as Data Science. 
 
 ![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/alexmaszanski/discussion)
 
