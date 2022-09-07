@@ -27,11 +27,12 @@ In addition, I’m interested in the mathematical aspects of cryptography, vario
 
 ## 💻 I’m currently
 
+- Completing [Hugging Face Transformer course](https://huggingface.co/course)
 - Writing various articles on Data Structures topic
 - Contributing to [sky360](https://github.com/Sky360-Repository/simpletracker) project 
 
 ## 🤝 I’m looking forward to cooperating on
-- Open Source Python projects
+- Open Source projects related with Data Science field
 - Startup job
 
 ## 🔎 How to find me
@@ -41,7 +42,7 @@ In addition, I’m interested in the mathematical aspects of cryptography, vario
 - Mail: [maszanski@yahoo.com](mailto:maszanski@yahoo.com)
 - Twitter: [https://twitter.com/maszanski](https://twitter.com/maszanski)
 
-## 📑 Examples of my articles (in Russian🇷🇺)
+## 📑 Examples of my articles (in Russian)
 
 - [How does a robot plan a path using RRT? (translation)](https://proglib.io/p/planirovanie-marshruta-robotom-pri-pomoshchi-rrt-2021-06-08)
 - [How to become a Data Engineer in 2021?](https://proglib.io/p/kak-stat-data-inzhenerom-v-2021-godu-2021-07-25)
