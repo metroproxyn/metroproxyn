@@ -1,7 +1,6 @@
 ### Greetings!👋
 
-I am Alex Mashanski, a Data Scientist who interested in Machine Learning, Kaggle contributing and Artificial Intelligence. I'm a writer & translator on [proglib.io](https://proglib.io) website. Most of my articles focus on the realm of Data science, especially Machine Learning methods & algorithms.
-
+I am Alex Mashanski, a Technical Writer, who also interested in Machine Learning, Kaggle contributing and Artificial Intelligence.
 
 A lot of my repositories & pet projects represented here, from my school days when I tried Java and C languages to nowadays, where mostly of my projects are related with Python and Data Science in general.
 I'm in relations with high math since my secondary school. And I really like the fact that things like mathematics, combinatorics, statistics & probability theory can be combined with programming and generate an interesting result!
@@ -28,8 +27,7 @@ In addition, I’m interested in the mathematical aspects of cryptography, vario
 ## 💻 I’m currently
 
 - Completing [Hugging Face Transformer course](https://huggingface.co/course)
-- Writing various articles on Data Structures topic
-- Contributing to [sky360](https://github.com/Sky360-Repository/simpletracker) project 
+- Practicing my SQL skills
 
 ## 🤝 I’m looking forward to cooperating on
 - Open Source projects related with Data Science field
@@ -43,6 +41,7 @@ In addition, I’m interested in the mathematical aspects of cryptography, vario
 - Twitter: [https://twitter.com/maszanski](https://twitter.com/maszanski)
 
 ## 📑 Examples of my articles (in Russian)
+Most of my articles focus on the realm of Data science, especially Machine Learning methods & algorithms.
 
 - [How does a robot plan a path using RRT? (translation)](https://proglib.io/p/planirovanie-marshruta-robotom-pri-pomoshchi-rrt-2021-06-08)
 - [How to become a Data Engineer in 2021?](https://proglib.io/p/kak-stat-data-inzhenerom-v-2021-godu-2021-07-25)
