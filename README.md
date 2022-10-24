@@ -1,6 +1,6 @@
 ### Greetings!👋
 
-I am Alex Mashanski, a Technical Writer, who also interested in Machine Learning, Kaggle contributing and Artificial Intelligence.
+I am Aleks Mashanski, a Documentation Developer, who also interested in Machine Learning, Kaggle contributing and Artificial Intelligence.
 
 A lot of my repositories & pet projects represented here, from my school days when I tried Java and C languages to nowadays, where mostly of my projects are related with Python and Data Science in general.
 I'm in relations with high math since my secondary school. And I really like the fact that things like mathematics, combinatorics, statistics & probability theory can be combined with programming and generate an interesting result!
