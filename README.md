@@ -19,19 +19,19 @@ In addition, I’m interested in the mathematical aspects of cryptography, vario
 - Visialisation libraries: Matplotlib, Seaborn
 - Industry Knowledge: Data Preparation, Feature Engineering & Selection, Time Series Analysis, PCA, Word2vec
 - Neural Network architecture knowledge: CNN, RNN (LSTM), VAE, DNN, GAN
-- Tools: Docker, Git
+- Tools: Docker, Git, MadCap Flare
 - Soft Skills: Educability, Time Management, Self-motivation, Communication
-- Languages: English, Polish, Russian
+- Languages: English, Polish, Russian, Georgian
 
 
 ## 💻 I’m currently
 
 - Completing [Hugging Face Transformer course](https://huggingface.co/course)
+– Completing [Coursera NLP specialization](https://www.coursera.org/learn/classification-vector-spaces-in-nlp)
 - Practicing my SQL skills
 
 ## 🤝 I’m looking forward to cooperating on
 - Open Source projects related with Data Science field
-- Startup job
 
 ## 🔎 How to find me
 
