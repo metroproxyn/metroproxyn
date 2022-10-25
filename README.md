@@ -27,7 +27,7 @@ In addition, I’m interested in the mathematical aspects of cryptography, vario
 ## 💻 I’m currently
 
 - Completing [Hugging Face Transformer course](https://huggingface.co/course)
-– Completing [Coursera NLP specialization](https://www.coursera.org/learn/classification-vector-spaces-in-nlp)
+- Completing [Coursera NLP specialization](https://www.coursera.org/learn/classification-vector-spaces-in-nlp)
 - Practicing my SQL skills
 
 ## 🤝 I’m looking forward to cooperating on
