@@ -7,8 +7,6 @@ I'm in relations with high math since my secondary school. And I really like the
 
 In addition, I’m interested in the mathematical aspects of cryptography, various cryptographyc algorithms & methods. As well as the application of cryptographic techniques to other fields, such as Data Science. 
 
-![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/alexmaszanski/discussion)
-
 
 ## 📚My Knowledge & Skills
 
@@ -26,9 +24,7 @@ In addition, I’m interested in the mathematical aspects of cryptography, vario
 
 ## 💻 I’m currently
 
-- Completing [Hugging Face Transformer course](https://huggingface.co/course)
-- Completing [Coursera NLP specialization](https://www.coursera.org/learn/classification-vector-spaces-in-nlp)
-- Practicing my SQL skills
+- Completing [Deep Learning specialization on Coursera: I want to repeat the 1st course](https://www.coursera.org/specializations/deep-learning)
 
 ## 🤝 I’m looking forward to cooperating on
 - Open Source projects related with Data Science field
