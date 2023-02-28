@@ -1,11 +1,11 @@
 ### Greetings!👋
 
-I am Aleks Mashanski, a Documentation Developer, who also interested in Machine Learning, Kaggle contributing and Artificial Intelligence.
+I am Aleks Mashanski, a Documentation Developer, who also interested in Machine Learning, Cybersecurity and Coding Practice Challenges.
 
 A lot of my repositories & pet projects represented here, from my school days when I tried Java and C languages to nowadays, where mostly of my projects are related with Python and Data Science in general.
 I'm in relations with high math since my secondary school. And I really like the fact that things like mathematics, combinatorics, statistics & probability theory can be combined with programming and generate an interesting result!
 
-In addition, I’m interested in the mathematical aspects of cryptography, various cryptographyc algorithms & methods. As well as the application of cryptographic techniques to other fields, such as Data Science. 
+In addition, I’m interested in the mathematical aspects of cryptography, various cryptographyc algorithms & methods. I'm trying to do experiments on the application of cryptographic techniques in other fields, such as Data Science. 
 
 
 ## 📚My Knowledge & Skills
@@ -31,7 +31,7 @@ In addition, I’m interested in the mathematical aspects of cryptography, vario
 
 
 ## 🤝 I’m looking forward to cooperating on
-- Open Source projects related with Data Science field
+- Open Source projects related with Artificial Intelligence or Cybersecurity
 
 ## 🔎 How to find me
 
