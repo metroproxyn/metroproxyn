@@ -24,8 +24,11 @@ In addition, I’m interested in the mathematical aspects of cryptography, vario
 
 ## 💻 I’m currently
 
-- Completing [Deep Learning specialization on Coursera: I want to repeat the 1st course](https://www.coursera.org/specializations/deep-learning)
-- Crunching [Hackerrank](https://www.hackerrank.com/fancynex)
+- Completing [Linear Algebra course](https://www.coursera.org/learn/machine-learning-linear-algebra?specialization=mathematics-for-machine-learning-and-data-science) from the [Mathematics for Machine Learning and Data Science Specialization](https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science#courses)
+- Crunching [Codewars](https://www.codewars.com/users/Metroproxyn)
+
+![Codewars](https://github.r2v.ch/codewars?user=Metroproxyn)
+
 
 ## 🤝 I’m looking forward to cooperating on
 - Open Source projects related with Data Science field
