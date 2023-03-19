@@ -1,11 +1,11 @@
 ### Greetings!👋
 
-I am Aleks Mashanski, a Documentation Developer who is also interested in Artificial Intelligence, Cybersecurity and Coding Practice Challenges.
+I am Aleks Mashanski, a Documentation Developer who is interested in Cybersecurity techniques. I also have an experience in Coding Practice Challenges and Artificial Intelligence field.
 
 A lot of my repositories & pet projects represented here, from my school days when I tried Java and C languages to nowadays, where mostly of my projects are related with Python and Data Science in general.
-I'm in relations with High Math since my econdary school. And I really like the fact that things like Mathematics, Combinatorics, Statistics & Probability Theory can be combined with Programming and generate an interesting result!
+I'm in relations with High Math since my secondary school. And I really like the fact that things like Mathematics, Combinatorics, Statistics & Probability Theory can be combined with Programming and generate an interesting result!
 
-In addition, I’m interested in the mathematical aspects of Cryptography, various Cryptographyc Algorithms & Methods. I'm trying to do experiments on the application of Cryptographic Techniques in other fields, such as Data Science. 
+In addition, I’m interested in the mathematical aspects of Cryptography, various Cryptographyc Algorithms & Methods. I'm trying to do experiments on the application of Cryptographic Techniques in my projects, such as [cryptopyth](https://github.com/metroproxyn/cryptopyth). 
 
 
 ## 📚My Knowledge & Skills
@@ -24,18 +24,22 @@ In addition, I’m interested in the mathematical aspects of Cryptography, vario
 
 ## 💻 I’m currently
 
-- Completing [Linear Algebra course](https://www.coursera.org/learn/machine-learning-linear-algebra?specialization=mathematics-for-machine-learning-and-data-science) from the [Mathematics for Machine Learning and Data Science Specialization](https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science#courses)
+- Completing [Calculus course](https://www.coursera.org/learn/machine-learning-calculus) from the [Mathematics for Machine Learning and Data Science Specialization](https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science#courses)
 - Crunching [Codewars](https://www.codewars.com/users/Metroproxyn)
 
 ![Codewars](https://github.r2v.ch/codewars?user=Metroproxyn)
 
+- Reading [Linux Bible book](https://www.amazon.com/Linux-Bible-Christopher-Negus/dp/1119578884)
+
 
 ## 🤝 I’m looking forward to cooperating on
 - Open Source projects related to Python coding
+- Cybersecurity challenges
 
 ## 🔎 How to find me
 
 - Linkedin: [https://www.linkedin.com/in/maszanski/](https://www.linkedin.com/in/maszanski/)
+- Website: [https://mashanski.com](https://mashanski.com)
 - Kaggle: [https://www.kaggle.com/alexmaszanski](https://www.kaggle.com/alexmaszanski)
 - Mail: [maszanski@yahoo.com](mailto:maszanski@yahoo.com)
 - Twitter: [https://twitter.com/maszanski](https://twitter.com/maszanski)
