@@ -10,26 +10,39 @@ In addition, I’m interested in the mathematical aspects of Cryptography, vario
 
 ## 📚My Knowledge & Skills
 
-- Programming language: Python, SQL
-- Machine Learning algorithms: Linear & Logistic Regression, Decision Tree, Random Forest, K-Nearest Neighbors (KNN), Gradient Boosting, Naive Bayes classifier
-- Machine Learning libraries: NumPy, Pandas, Scikit-Learn, Xgboost, LightAutoML, Vowpal Wabbit
-- Deep Learning libraries: Pytorch, Keras, OpenCV
-- Visialisation libraries: Matplotlib, Seaborn
-- Industry Knowledge: Data Preparation, Feature Engineering & Selection, Time Series Analysis, PCA, Word2vec
-- Neural Network architecture knowledge: CNN, RNN (LSTM), VAE, DNN, GAN
+- Programming languages: Python, SQL
 - Tools: Docker, Git, MadCap Flare
 - Soft Skills: Educability, Time Management, Self-motivation, Communication
 - Languages: English, Polish, Russian, Georgian
+
+<details>
+  <summary>My skills in Data Science and AI</summary>
+  
+  - Machine Learning algorithms: Linear & Logistic Regression, Decision Tree, Random Forest, K-Nearest Neighbors (KNN), Gradient Boosting, Naive Bayes classifier
+  - Machine Learning libraries: NumPy, Pandas, Scikit-Learn, Xgboost, LightAutoML, Vowpal Wabbit
+  - Deep Learning libraries: Pytorch, Keras, OpenCV
+  - Visialisation libraries: Matplotlib, Seaborn
+  - Industry Knowledge: Data Preparation, Feature Engineering & Selection, Time Series Analysis, PCA, Word2vec
+  - Neural Network architecture knowledge: CNN, RNN (LSTM), VAE, DNN, GAN
+
+  ### Some Code
+  ```js
+  function logSomething(something) {
+    console.log('Something', something);
+  }
+  ```
+</details>
 
 
 ## 💻 I’m currently
 
 - Contributing to my Password Manager project
+- Learning how Linux works
+- Gaining basic knowledge of the Cybersecurity industry
 - Crunching [Codewars](https://www.codewars.com/users/Metroproxyn)
 
 ![Codewars](https://github.r2v.ch/codewars?user=Metroproxyn)
 
-- Reading [Linux Bible book](https://www.amazon.com/Linux-Bible-Christopher-Negus/dp/1119578884)
 
 
 ## 🤝 I’m looking forward to cooperating on
