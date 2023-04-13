@@ -24,7 +24,7 @@ In addition, I’m interested in the mathematical aspects of Cryptography, vario
 
 ## 💻 I’m currently
 
-- Completing [Calculus course](https://www.coursera.org/learn/machine-learning-calculus) from the [Mathematics for Machine Learning and Data Science Specialization](https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science#courses)
+- Contributing to my Password Manager project
 - Crunching [Codewars](https://www.codewars.com/users/Metroproxyn)
 
 ![Codewars](https://github.r2v.ch/codewars?user=Metroproxyn)
