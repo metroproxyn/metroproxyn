@@ -11,7 +11,7 @@ In addition, I’m interested in the mathematical aspects of Cryptography, vario
 ## 📚My Knowledge & Skills
 
 - Programming languages: Python, SQL
-- Tools: Docker, Git, MadCap Flare
+- Technology stack: Linux, Docker, Git, MadCap Flare
 - Soft Skills: Educability, Time Management, Self-motivation, Communication
 - Languages: English, Polish, Russian, Georgian
 
