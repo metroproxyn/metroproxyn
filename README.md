@@ -37,8 +37,7 @@ In addition, I’m interested in the mathematical aspects of Cryptography, vario
 ## 💻 I’m currently
 
 - Contributing to my Password Manager project
-- Learning how Linux works
-- Gaining basic knowledge of the Cybersecurity industry
+- Gaining basic knowledge of the Networks
 - Crunching [Codewars](https://www.codewars.com/users/Metroproxyn)
 
 ![Codewars](https://github.r2v.ch/codewars?user=Metroproxyn)
