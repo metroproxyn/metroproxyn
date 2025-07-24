@@ -52,7 +52,7 @@ In addition, I’m interested in the mathematical aspects of Cryptography, vario
 ## 🔎 How to find me
 
 - Linkedin: [https://www.linkedin.com/in/maszanski/](https://www.linkedin.com/in/maszanski/)
-- Website: [https://mashanski.com](https://mashanski.com)
+- Website: [https://mashanski.me](https://mashanski.me)
 - Kaggle: [https://www.kaggle.com/alexmaszanski](https://www.kaggle.com/alexmaszanski)
 - Mail: [maszanski@yahoo.com](mailto:maszanski@yahoo.com)
 - Twitter: [https://twitter.com/maszanski](https://twitter.com/maszanski)
