@@ -16,14 +16,14 @@ In addition, I’m interested in the mathematical aspects of Cryptography, vario
 - Soft Skills: Leadership, Teamwork, Time Management, Self-motivation, Communication, Educability
 - Languages: English, Polish, Russian, Georgian
 
-<details>
-  <summary>My skills in Data Science and AI</summary>
+**My skills in Data Science and AI**
   
+  - Knowledge of the Language Models
   - Machine Learning algorithms: Linear & Logistic Regression, Decision Tree, Random Forest, K-Nearest Neighbors (KNN), Gradient Boosting, Naive Bayes classifier
   - Machine Learning libraries: NumPy, Pandas, Scikit-Learn, Xgboost, LightAutoML, Vowpal Wabbit
   - Deep Learning libraries: Pytorch, Keras, OpenCV
   - Visialisation libraries: Matplotlib, Seaborn
-  - Industry Knowledge: Data Preparation, Feature Engineering & Selection, Time Series Analysis, PCA, Word2vec
+  - Industry Knowledge: Data Preparation, Feature Engineering & Selection, Time Series Analysis, PCA, Word2vec, NLP
   - Neural Network architecture knowledge: CNN, RNN (LSTM), VAE, DNN, GAN
 
   ### Some Code
