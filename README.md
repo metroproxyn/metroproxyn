@@ -13,7 +13,7 @@ In addition, I’m interested in the mathematical aspects of Cryptography, vario
 - Programming languages: Python, SQL
 - Documentation Development Tools and Frameworks: MadCap Flare, Markdown, Docusaurus, Docs-as-Code
 - Technology stack: Linux, Docker, Git, API knowledge
-- Soft Skills: Leadership, Time Management, Self-motivation, Communication, Educability
+- Soft Skills: Leadership, Teamwork, Time Management, Self-motivation, Communication, Educability
 - Languages: English, Polish, Russian, Georgian
 
 <details>
