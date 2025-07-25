@@ -1,6 +1,6 @@
 ### Greetings!👋
 
-I am Aleks Mashanski, a Documentation Engineer who is interested in the framework of Cybersecurity and AI. I also have an experience in Coding Practice Challenges and Data Science field.
+I am Aleks Mashanski, a Documentation Developer who is interested in the framework of Cybersecurity and AI. I also have an experience in Coding Practice Challenges and Data Science field.
 
 A lot of my repositories & pet projects represented here, from my school days when I tried Java and C languages to nowadays, where mostly of my projects are related with Python and AI in general.
 I'm in relations with High Math since my secondary school. And I really like the fact that things like Mathematics, Combinatorics, Statistics & Probability Theory can be combined with Programming and generate an interesting result!
