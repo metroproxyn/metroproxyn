@@ -8,15 +8,44 @@ I'm in relations with High Math since my secondary school. And I really like the
 In addition, I’m interested in the mathematical aspects of Cryptography, various Cryptographyc Algorithms & Methods. I'm trying to do experiments on the application of Cryptographic Techniques in my projects, such as [cryptopyth](https://github.com/metroproxyn/cryptopyth). 
 
 
-## 📚My Knowledge & Skills
+## 📚 Technical Skills & Knowledge
 
-- Programming languages: Python, SQL
-- Documentation Development Tools and Frameworks: MadCap Flare, Markdown, Docusaurus, Docs-as-Code
-- Technology stack: Linux, Docker, Git, API knowledge
-- Soft Skills: Leadership, Teamwork, Time Management, Self-motivation, Communication, Educability
-- Languages: English, Polish, Russian, Georgian
+### 💻 Programming & Scripting
+- **Languages:** Python, JavaScript, SQL
+- **Data Formats:** JSON, XML
 
-**My skills in Data Science and AI**
+### 💾 Documentation Engineering
+- **Authoring Tools:** MadCap Flare, Markdown
+- **Static Site Generators:** Docusaurus
+- **Methodologies:** Docs-as-Code
+- **Markup Languages:** XML, HTML
+
+### 🌐 Web & APIs
+- **Web Technologies:** RESTful APIs (JSON and XML)
+- **Runtime:** Node.js
+
+### 🛠️ Infrastructure & DevOps  
+- **Operating Systems:** Linux (Debian, Ubuntu) + Shell Scripting
+- **Containerization:** Docker  
+- **Version Control:** Git (GitHub, GitLab)
+  
+### 🗣️ Languages
+- English (Fluent)
+- Polish (Fluent)
+- Russian (Native)
+- Georgian (Basic)
+
+### 🌟 Soft Skills
+- Leadership
+- Team Collaboration
+- Time Management
+- Self-Motivation
+- Effective Communication
+- Adaptability
+
+
+
+### ✨ My skills in Data Science and AI
   
   - Knowledge of the Language Models
   - Machine Learning algorithms: Linear & Logistic Regression, Decision Tree, Random Forest, K-Nearest Neighbors (KNN), Gradient Boosting, Naive Bayes classifier
