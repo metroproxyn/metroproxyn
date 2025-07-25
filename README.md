@@ -27,47 +27,55 @@ In addition, I’m interested in the mathematical aspects of Cryptography, vario
 ### 🛠️ Infrastructure & DevOps  
 - **Operating Systems:** Linux (Debian, Ubuntu) + Shell Scripting
 - **Containerization:** Docker  
-- **Version Control:** Git (GitHub, GitLab)
-  
-### 🗣️ Languages
+- **Version Control:** Git (GitHub, GitLab) 
+
+
+## ✨ Skills in AI & Data Science
+
+### 🧠 Core AI & Machine Learning
+- **Language Models & NLP**: Solid understanding of modern LLMs (e.g. GPT, BERT, T5), Word2Vec, contextual embeddings, fine-tuning & prompt engineering  
+- **Supervised Learning**: Linear & Logistic Regression, Decision Trees, Random Forests, Gradient Boosting (XGBoost, LightGBM), K-Nearest Neighbors, Naive Bayes  
+- **Unsupervised Learning**: Clustering (K-Means, DBSCAN), PCA, t-SNE, anomaly detection  
+- **Model Evaluation**: Cross-validation, ROC AUC, F1-score, hyperparameter tuning (Grid, Random, Optuna)
+
+### 📚 Libraries & Frameworks
+- **Python stack**: NumPy, Pandas, Scikit-Learn  
+- **Boosting frameworks**: XGBoost, LightGBM, CatBoost  
+- **Automated ML**: LightAutoML, H2O.ai, Vowpal Wabbit  
+- **Deep Learning**: PyTorch (preferred), TensorFlow/Keras  
+- **Computer Vision**: OpenCV, TorchVision, basic experience with Transformers for Vision  
+- **Visualization**: Matplotlib, Seaborn, Plotly (for interactive dashboards)
+
+### 🤖 Domain Knowledge
+- **Data Pipeline**: Data Cleaning, Preparation, Feature Engineering & Selection  
+- **Time Series**: Forecasting, seasonality, ARIMA, Prophet  
+- **Natural Language Processing**: Tokenization, vectorization, sentiment analysis, text classification, embeddings  
+- **Modern NLP Practices**: HuggingFace Transformers, zero/few-shot learning, text generation  
+- **Neural Network Architectures**:  
+  - **CNN** – for image classification & feature extraction  
+  - **RNN / LSTM** – for sequential data  
+  - **Transformer-based** – foundational knowledge of self-attention and encoder-decoder structures  
+  - **VAE** – for generative modeling and anomaly detection  
+  - **GAN** – for synthetic data generation
+
+## 🗣️ Languages
 - English (Fluent)
 - Polish (Fluent)
 - Russian (Native)
 - Georgian (Basic)
 
-### 🌟 Soft Skills
-- Leadership
-- Team Collaboration
-- Time Management
-- Self-Motivation
-- Effective Communication
-- Adaptability
-
-
-
-### ✨ My skills in Data Science and AI
-  
-  - Knowledge of the Language Models
-  - Machine Learning algorithms: Linear & Logistic Regression, Decision Tree, Random Forest, K-Nearest Neighbors (KNN), Gradient Boosting, Naive Bayes classifier
-  - Machine Learning libraries: NumPy, Pandas, Scikit-Learn, Xgboost, LightAutoML, Vowpal Wabbit
-  - Deep Learning libraries: Pytorch, Keras, OpenCV
-  - Visialisation libraries: Matplotlib, Seaborn
-  - Industry Knowledge: Data Preparation, Feature Engineering & Selection, Time Series Analysis, PCA, Word2vec, NLP
-  - Neural Network architecture knowledge: CNN, RNN (LSTM), VAE, DNN, GAN
-
-  ### Some Code
-  ```js
-  function logSomething(something) {
-    console.log('Something', something);
-  }
-  ```
-</details>
+## 🌟 Soft Skills
+- Leadership & Ownership  
+- Cross-functional Team Collaboration  
+- Time & Priority Management  
+- Self-Motivation & Accountability  
+- Clear & Effective Communication  
+- Adaptability in Fast-Paced Environments
 
 
 ## 💻 I’m currently
 
-- Contributing to my Password Manager project
-- Gaining basic knowledge of the Networks
+- Exploring Cybersecurity and AI learning material
 - Crunching [Codewars](https://www.codewars.com/users/Metroproxyn)
 
 ![Codewars](https://github.r2v.ch/codewars?user=Metroproxyn)
