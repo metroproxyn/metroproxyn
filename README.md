@@ -5,7 +5,7 @@ I am Aleks Mashanski, a Documentation Engineer who is interested in the framewor
 A lot of my repositories & pet projects represented here, from my school days when I tried Java and C languages to nowadays, where mostly of my projects are related with Python and AI in general.
 I'm in relations with High Math since my secondary school. And I really like the fact that things like Mathematics, Combinatorics, Statistics & Probability Theory can be combined with Programming and generate an interesting result!
 
-In addition, I’m interested in the mathematical aspects of Cryptography, various Cryptographyc Algorithms & Methods. I'm trying to do experiments on the application of Cryptographic Techniques in my projects, such as [cryptopyth](https://github.com/metroproxyn/cryptopyth). 
+In addition, I’m interested in the mathematical aspects of Cryptography, various Cryptographyc Algorithms & Methods. I'm trying to do experiments on the application of Cryptographic Techniques in my projects. 
 
 
 ## 📚 Technical Skills & Knowledge
