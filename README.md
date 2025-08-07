@@ -62,6 +62,7 @@ In addition, I’m interested in the mathematical aspects of Cryptography, vario
 - English (Fluent)
 - Polish (Fluent)
 - Russian (Native)
+- German (Basic)
 - Georgian (Basic)
 
 ## 🌟 Soft Skills
