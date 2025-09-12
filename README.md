@@ -62,6 +62,7 @@ In addition, I’m interested in the mathematical aspects of Cryptography, vario
 - English (Fluent)
 - Polish (Fluent)
 - Russian (Native)
+- German (Basic)
 - Georgian (Basic)
 
 ## 🌟 Soft Skills
@@ -83,8 +84,7 @@ In addition, I’m interested in the mathematical aspects of Cryptography, vario
 
 
 ## 🤝 I’m looking forward to cooperating on
-- Open Source projects related to Python coding
-- Cybersecurity challenges
+- Open Source projects related to AI, Computer Vision and LLMs
 
 ## 🔎 How to find me
 
@@ -94,18 +94,30 @@ In addition, I’m interested in the mathematical aspects of Cryptography, vario
 - Mail: [maszanski@yahoo.com](mailto:maszanski@yahoo.com)
 - Twitter: [https://twitter.com/maszanski](https://twitter.com/maszanski)
 
-## 📑 Examples of my articles (in Russian)
-Most of my articles focus on the realm of Data science, especially Machine Learning methods & algorithms.
+## 📑 Examples of my articles
 
-- [How does a robot plan a path using RRT? (translation)](https://proglib.io/p/planirovanie-marshruta-robotom-pri-pomoshchi-rrt-2021-06-08)
-- [How to become a Data Engineer in 2021?](https://proglib.io/p/kak-stat-data-inzhenerom-v-2021-godu-2021-07-25)
-- [The k-nearest neighbors (KNN) algorithm](https://proglib.io/p/metod-k-blizhayshih-sosedey-k-nearest-neighbour-2021-07-19)
-- [Random Forest algorithm](https://proglib.io/p/mashinnoe-obuchenie-dlya-nachinayushchih-algoritm-sluchaynogo-lesa-random-forest-2021-08-12)
-- [Feature Engineering & Selection. Part 1](https://proglib.io/p/postroenie-i-otbor-priznakov-chast-1-feature-engineering-2021-09-15)
-- [Feature Engineering & Selection. Part 2](https://proglib.io/p/postroenie-i-otbor-priznakov-chast-2-feature-selection-2021-09-25)
-- [Kaggle for beginners. Part 1: Overview](https://proglib.io/p/kaggle-za-30-minut-prakticheskoe-rukovodstvo-dlya-nachinayushchih-2021-09-17)
-- [Kaggle for beginners. Part 2: House Prices](https://proglib.io/p/kaggle-za-30-minut-razbiraemsya-s-sorevnovaniem-house-prices-2021-09-28)
-- [Naive Bayes classifier](https://proglib.io/p/izuchaem-naivnyy-bayesovskiy-algoritm-klassifikacii-dlya-mashinnogo-obucheniya-2021-11-12)
-- [Gradient Boosting algorithm](https://proglib.io/p/reshaem-zadachi-mashinnogo-obucheniya-s-pomoshchyu-algoritma-gradientnogo-bustinga-2021-11-25)
-- [Reinforcement Learning](https://proglib.io/p/chto-takoe-obuchenie-s-podkrepleniem-i-kak-ono-rabotaet-obyasnyaem-na-prostyh-primerah)
-- [NFT & Cryptopunks: NN for generating images](https://proglib.io/p/nft-i-kriptopanki-pishem-neyroset-dlya-ih-generacii-2022-01-18)
+My articles explore both core data science concepts and hands-on machine learning methods, from tutorials to algorithm deep-dives.
+
+- [Probability theory for beginners](https://mashanski.me/mathematics/probability-theory-for-beginners/)
+
+- [Using NumPy for Python matrices](https://mashanski.me/data-science/using-numpy-for-python-matrices/)
+
+- [CDN (Content Delivery Network)](https://mashanski.me/networks/cdn-content-delivery-network/)
+
+- [What is reinforcement learning and how it works](https://mashanski.me/reinforcement-learning/what-is-reinforcement-learning-and-how-it-works/)
+
+- [Naive Bayesian classification algorithm](https://mashanski.me/machine-learning/naive-bayesian-classification-algorithm/)
+
+- [The k-nearest neighbour method](https://mashanski.me/machine-learning/the-k-nearest-neighbour-method/)
+
+- [Machine Learning for Beginners: The Random Forest Algorithm](https://mashanski.me/machine-learning/machine-learning-for-beginners-the-random-forest-algorithm/)
+
+- [Solving machine learning problems with a gradient boosting algorithm](https://mashanski.me/machine-learning/solving-machine-learning-problems-with-a-gradient-boosting-algorithm/)
+
+- [Feature engineering and selection. Part 1](https://mashanski.me/machine-learning/feature-engineering-and-selection/)
+
+- [Feature construction and selection. Part 2](https://mashanski.me/machine-learning/feature-construction-and-selection-part-2/)
+
+- [Kaggle in 30 minutes: a practical guide for beginners. Part 1](https://mashanski.me/machine-learning/kaggle-in-30-minutes-a-practical-guide-for-beginners/)
+
+- [Kaggle in 30 minutes: House Prices competition. Part 2](https://mashanski.me/machine-learning/kaggle-in-30-minutes-house-prices-competition/)
